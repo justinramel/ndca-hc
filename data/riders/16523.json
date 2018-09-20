@@ -1,0 +1,443 @@
+{
+  "id": "16523",
+  "name": "Marcus Cram",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Castle Tri",
+  "bar": {
+    "short": [
+      {
+        "eventId": "16003",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Stage 1)",
+        "course": "MH20",
+        "distance": 0,
+        "fee": 5,
+        "date": "24 September 2017",
+        "club": "Castle Tri",
+        "position": "10",
+        "time": "0:07:38.7",
+        "speed": "0.00 Mph",
+        "bar": 0,
+        "barPosition": 121,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "16003S2",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Stage 2)",
+        "course": "MH4",
+        "distance": 0,
+        "fee": 5,
+        "date": "24 September 2017",
+        "club": "Castle Tri",
+        "position": "8",
+        "time": "0:03:27.4",
+        "speed": "0.00 Mph",
+        "bar": 0,
+        "barPosition": 121,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "16108",
+        "raceCategory": "short",
+        "name": "Houghton CC",
+        "course": "MH10-MH10B",
+        "distance": 0,
+        "fee": 8.5,
+        "date": "15 October 2017",
+        "club": "Castle Tri",
+        "position": "4",
+        "time": "0:02:01.0",
+        "speed": "0.00 Mph",
+        "bar": 0,
+        "barPosition": 121,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 3,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 43,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    },
+    "predictedFinalPosition": 152
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "16003",
+      "raceCategory": "short",
+      "name": "Sunderland Clarion CC (Stage 1)",
+      "course": "MH20",
+      "distance": 0,
+      "fee": 5,
+      "date": "24 September 2017",
+      "club": "Castle Tri",
+      "position": "10",
+      "time": "0:07:38.7",
+      "speed": "0.00 Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "16003S2",
+      "raceCategory": "short",
+      "name": "Sunderland Clarion CC (Stage 2)",
+      "course": "MH4",
+      "distance": 0,
+      "fee": 5,
+      "date": "24 September 2017",
+      "club": "Castle Tri",
+      "position": "8",
+      "time": "0:03:27.4",
+      "speed": "0.00 Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "16108",
+      "raceCategory": "short",
+      "name": "Houghton CC",
+      "course": "MH10-MH10B",
+      "distance": 0,
+      "fee": 8.5,
+      "date": "15 October 2017",
+      "club": "Castle Tri",
+      "position": "4",
+      "time": "0:02:01.0",
+      "speed": "0.00 Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 144,
+  "barHistory": [
+    {
+      "eventId": "16003",
+      "date": "24 September 2017",
+      "name": "MH20",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 63
+    },
+    {
+      "eventId": "16003S2",
+      "date": "24 September 2017",
+      "name": "MH4",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 63
+    },
+    {
+      "eventId": "16024",
+      "date": "30 September 2017",
+      "name": "MH2",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 75
+    },
+    {
+      "eventId": "16080",
+      "date": "08 October 2017",
+      "name": "MH18",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 88
+    },
+    {
+      "eventId": "16080S2",
+      "date": "08 October 2017",
+      "name": "MH19",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 88
+    },
+    {
+      "eventId": "16108",
+      "date": "15 October 2017",
+      "name": "MH10-MH10B",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 101
+    },
+    {
+      "eventId": "16125",
+      "date": "22 October 2017",
+      "name": "MH21",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 144
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119.66666666666667,
+      "predictedFinalPoints": 718,
+      "grandTotal": 718,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 141,
+      "id": "1810",
+      "pointsDirection": 41,
+      "barPredictedFinalPosition": 141,
+      "name": "Richard Lilleker",
+      "club": "Cleveland Wheelers CC",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 142,
+      "id": "7428",
+      "pointsDirection": 41,
+      "barPredictedFinalPosition": 142,
+      "name": "Ray Robinson",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 143,
+      "id": "11387",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 143,
+      "name": "Patrick Clark",
+      "club": "Team B38/Underpin Racing",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 144,
+      "id": "10556",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 144,
+      "name": "Niall Paterson",
+      "club": "Velo Club Cumbria",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 145,
+      "id": "10727",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 145,
+      "name": "Alex Reid",
+      "club": "Kingston Wheelers CC",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 146,
+      "id": "19753",
+      "pointsDirection": 43,
+      "barPredictedFinalPosition": 146,
+      "name": "Hannah Farran",
+      "club": "EDCO Continental",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 147,
+      "id": "7156",
+      "pointsDirection": 43,
+      "barPredictedFinalPosition": 147,
+      "name": "Jennifer Batey",
+      "club": "EDCO Continental",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

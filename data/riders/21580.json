@@ -1,0 +1,320 @@
+{
+  "id": "21580",
+  "name": "Aidan Berry",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "North Tyneside Riders CC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "16125",
+        "raceCategory": "short",
+        "name": "Muckle CC",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 8.5,
+        "date": "22 October 2017",
+        "club": "North Tyneside Riders CC",
+        "position": "105",
+        "time": "0:07:59.1",
+        "speed": "0.00 Mph",
+        "bar": 38,
+        "barPosition": 83,
+        "vbar": 97,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 38,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 38,
+    "remainingShortPoints": 682,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 682,
+    "predictedFinalPoints": 38,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 38,
+      "medium": 0,
+      "long": 0,
+      "grand": 38
+    },
+    "predictedFinalPosition": 135
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "16125",
+        "raceCategory": "short",
+        "name": "Muckle CC",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 8.5,
+        "date": "22 October 2017",
+        "club": "North Tyneside Riders CC",
+        "position": "105",
+        "time": "0:07:59.1",
+        "speed": "0.00 Mph",
+        "bar": 38,
+        "barPosition": 83,
+        "vbar": 97,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 97,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 97,
+    "remainingShortPoints": 623,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 623,
+    "predictedFinalPoints": 97,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 97,
+      "medium": 0,
+      "long": 0,
+      "grand": 97
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "16125",
+      "raceCategory": "short",
+      "name": "Muckle CC",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 8.5,
+      "date": "22 October 2017",
+      "club": "North Tyneside Riders CC",
+      "position": "105",
+      "time": "0:07:59.1",
+      "speed": "0.00 Mph",
+      "bar": 38,
+      "barPosition": 83,
+      "vbar": 97,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 135,
+  "barHistory": [
+    {
+      "eventId": "16125",
+      "date": "22 October 2017",
+      "name": "MH21",
+      "points": {
+        "short": 38,
+        "medium": 0,
+        "long": 0,
+        "grand": 38
+      },
+      "position": 135
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119.66666666666667,
+      "predictedFinalPoints": 718,
+      "grandTotal": 718,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 132,
+      "id": "9329",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 132,
+      "name": "Jane Massey",
+      "club": "Cramlington CC",
+      "averagePointsPerRace": 41,
+      "predictedFinalPoints": 41,
+      "grandTotal": 41,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 133,
+      "id": "11392",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 133,
+      "name": "Sheena Harrison",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 40,
+      "predictedFinalPoints": 40,
+      "grandTotal": 40,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 134,
+      "id": "92",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 134,
+      "name": "Mick Chappel",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 39,
+      "predictedFinalPoints": 39,
+      "grandTotal": 39,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 135,
+      "id": "21580",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 135,
+      "name": "Aidan Berry",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 38,
+      "predictedFinalPoints": 38,
+      "grandTotal": 38,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 136,
+      "id": "21680",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 136,
+      "name": "Charlie Olive",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 37,
+      "predictedFinalPoints": 37,
+      "grandTotal": 37,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 137,
+      "id": "21448",
+      "pointsDirection": 42,
+      "barPredictedFinalPosition": 137,
+      "name": "Joschka Roffe",
+      "club": "Durham City Velo RT",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 138,
+      "id": "7727",
+      "pointsDirection": 43,
+      "barPredictedFinalPosition": 138,
+      "name": "Natalie Batey",
+      "club": "Tyne & Wear Fire & Rescue Service CC",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

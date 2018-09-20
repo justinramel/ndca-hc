@@ -1,0 +1,383 @@
+{
+  "id": "6817",
+  "name": "Laurie Lambeth",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Beacon Wheelers",
+  "bar": {
+    "short": [
+      {
+        "eventId": "16024",
+        "raceCategory": "short",
+        "name": "Cestria CC",
+        "course": "MH2",
+        "distance": 0,
+        "fee": 8.5,
+        "date": "30 September 2017",
+        "club": "Beacon Wheelers",
+        "position": "12",
+        "time": "0:04:38.8",
+        "speed": "0.00 Mph",
+        "bar": 0,
+        "barPosition": 121,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "16125",
+        "raceCategory": "short",
+        "name": "Muckle CC",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 8.5,
+        "date": "22 October 2017",
+        "club": "Beacon Wheelers",
+        "position": "26",
+        "time": "0:04:33.8",
+        "speed": "0.00 Mph",
+        "bar": 0,
+        "barPosition": 121,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 43,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    },
+    "predictedFinalPosition": 172
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "16024",
+      "raceCategory": "short",
+      "name": "Cestria CC",
+      "course": "MH2",
+      "distance": 0,
+      "fee": 8.5,
+      "date": "30 September 2017",
+      "club": "Beacon Wheelers",
+      "position": "12",
+      "time": "0:04:38.8",
+      "speed": "0.00 Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "16125",
+      "raceCategory": "short",
+      "name": "Muckle CC",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 8.5,
+      "date": "22 October 2017",
+      "club": "Beacon Wheelers",
+      "position": "26",
+      "time": "0:04:33.8",
+      "speed": "0.00 Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 157,
+  "barHistory": [
+    {
+      "eventId": "16024",
+      "date": "30 September 2017",
+      "name": "MH2",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 88
+    },
+    {
+      "eventId": "16080",
+      "date": "08 October 2017",
+      "name": "MH18",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 101
+    },
+    {
+      "eventId": "16080S2",
+      "date": "08 October 2017",
+      "name": "MH19",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 101
+    },
+    {
+      "eventId": "16108",
+      "date": "15 October 2017",
+      "name": "MH10-MH10B",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 114
+    },
+    {
+      "eventId": "16125",
+      "date": "22 October 2017",
+      "name": "MH21",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 157
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119.66666666666667,
+      "predictedFinalPoints": 718,
+      "grandTotal": 718,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 154,
+      "id": "19055",
+      "pointsDirection": 43,
+      "barPredictedFinalPosition": 154,
+      "name": "Simon Foster",
+      "club": "North Racing",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 155,
+      "id": "9786",
+      "pointsDirection": 43,
+      "barPredictedFinalPosition": 155,
+      "name": "Daniel Nieto",
+      "club": "Wigmore CC",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 156,
+      "id": "21314",
+      "pointsDirection": 43,
+      "barPredictedFinalPosition": 156,
+      "name": "Freddie Jagger",
+      "club": "York Cycleworks",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 157,
+      "id": "1818",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 157,
+      "name": "Kris Whitelaw",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 158,
+      "id": "10918",
+      "pointsDirection": 43,
+      "barPredictedFinalPosition": 158,
+      "name": "Alistair MacDonald",
+      "club": "Sporting Club Gothic",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 159,
+      "id": "3213",
+      "pointsDirection": 43,
+      "barPredictedFinalPosition": 159,
+      "name": "Karl Juan Denton",
+      "club": "Newcastle Cheviot CC",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 160,
+      "id": "21624",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 160,
+      "name": "Geoff Mount",
+      "club": "Newcastle Cheviot CC",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

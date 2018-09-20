@@ -1,0 +1,437 @@
+{
+  "id": "55",
+  "name": "Ben Lane",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "GS Metro",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "16080",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 1)",
+        "course": "MH18",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "08 October 2017",
+        "club": "GS Metro",
+        "position": "13",
+        "time": "0:01:53.2",
+        "speed": "0.00 Mph",
+        "bar": 114,
+        "barPosition": 7,
+        "vbar": 120,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "16080S2",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 2)",
+        "course": "MH19",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "08 October 2017",
+        "club": "GS Metro",
+        "position": "23",
+        "time": "0:08:25.1",
+        "speed": "0.00 Mph",
+        "bar": 104,
+        "barPosition": 17,
+        "vbar": 118,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 109,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 109,
+    "remainingShortPoints": 502,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 502,
+    "predictedFinalPoints": 218,
+    "pointsDirection": 8,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 218,
+      "medium": 0,
+      "long": 0,
+      "grand": 218
+    },
+    "predictedFinalPosition": 47
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "16080",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 1)",
+        "course": "MH18",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "08 October 2017",
+        "club": "GS Metro",
+        "position": "13",
+        "time": "0:01:53.2",
+        "speed": "0.00 Mph",
+        "bar": 114,
+        "barPosition": 7,
+        "vbar": 120,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "16080S2",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 2)",
+        "course": "MH19",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "08 October 2017",
+        "club": "GS Metro",
+        "position": "23",
+        "time": "0:08:25.1",
+        "speed": "0.00 Mph",
+        "bar": 104,
+        "barPosition": 17,
+        "vbar": 118,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "averagePointsPerShortRace": 119,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 119,
+    "remainingShortPoints": 482,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 482,
+    "predictedFinalPoints": 238,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 238,
+      "medium": 0,
+      "long": 0,
+      "grand": 238
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "16080",
+      "raceCategory": "short",
+      "name": "Blaydon CC (Stage 1)",
+      "course": "MH18",
+      "distance": 0,
+      "fee": 4.5,
+      "date": "08 October 2017",
+      "club": "GS Metro",
+      "position": "13",
+      "time": "0:01:53.2",
+      "speed": "0.00 Mph",
+      "bar": 114,
+      "barPosition": 7,
+      "vbar": 120,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "16080S2",
+      "raceCategory": "short",
+      "name": "Blaydon CC (Stage 2)",
+      "course": "MH19",
+      "distance": 0,
+      "fee": 4.5,
+      "date": "08 October 2017",
+      "club": "GS Metro",
+      "position": "23",
+      "time": "0:08:25.1",
+      "speed": "0.00 Mph",
+      "bar": 104,
+      "barPosition": 17,
+      "vbar": 118,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "16125",
+      "raceCategory": "short",
+      "name": "Muckle CC",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 8.5,
+      "date": "22 October 2017",
+      "club": "GS Metro",
+      "position": "DNS",
+      "time": "0:00:00.0",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 47,
+  "barHistory": [
+    {
+      "eventId": "16080",
+      "date": "08 October 2017",
+      "name": "MH18",
+      "points": {
+        "short": 114,
+        "medium": 0,
+        "long": 0,
+        "grand": 114
+      },
+      "position": 58
+    },
+    {
+      "eventId": "16080S2",
+      "date": "08 October 2017",
+      "name": "MH19",
+      "points": {
+        "short": 218,
+        "medium": 0,
+        "long": 0,
+        "grand": 218
+      },
+      "position": 37
+    },
+    {
+      "eventId": "16108",
+      "date": "15 October 2017",
+      "name": "MH10-MH10B",
+      "points": {
+        "short": 218,
+        "medium": 0,
+        "long": 0,
+        "grand": 218
+      },
+      "position": 39
+    },
+    {
+      "eventId": "16125",
+      "date": "22 October 2017",
+      "name": "MH21",
+      "points": {
+        "short": 218,
+        "medium": 0,
+        "long": 0,
+        "grand": 218
+      },
+      "position": 47
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "1 x Top 10"
+    },
+    {
+      "cssclass": "tag is-black",
+      "text": "1 x DNS"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119.66666666666667,
+      "predictedFinalPoints": 718,
+      "grandTotal": 718,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 44,
+      "id": "102",
+      "pointsDirection": 7,
+      "barPredictedFinalPosition": 44,
+      "name": "Adam Jarps",
+      "club": "Manilla Cycling",
+      "averagePointsPerRace": 112.5,
+      "predictedFinalPoints": 225,
+      "grandTotal": 225,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 45,
+      "id": "12505",
+      "pointsDirection": -14,
+      "barPredictedFinalPosition": 45,
+      "name": "Richard Hirst",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 74,
+      "predictedFinalPoints": 222,
+      "grandTotal": 222,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 46,
+      "id": "5283",
+      "pointsDirection": 8,
+      "barPredictedFinalPosition": 46,
+      "name": "James O'Reilly",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 110.5,
+      "predictedFinalPoints": 221,
+      "grandTotal": 221,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 47,
+      "id": "55",
+      "pointsDirection": 8,
+      "barPredictedFinalPosition": 47,
+      "name": "Ben Lane",
+      "club": "GS Metro",
+      "averagePointsPerRace": 109,
+      "predictedFinalPoints": 218,
+      "grandTotal": 218,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 48,
+      "id": "480",
+      "pointsDirection": 8,
+      "barPredictedFinalPosition": 48,
+      "name": "Neil Baxter",
+      "club": "Blumilk.com",
+      "averagePointsPerRace": 108,
+      "predictedFinalPoints": 216,
+      "grandTotal": 216,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 49,
+      "id": "20448",
+      "pointsDirection": -20,
+      "barPredictedFinalPosition": 49,
+      "name": "Neil Scott",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 105.5,
+      "predictedFinalPoints": 211,
+      "grandTotal": 211,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 50,
+      "id": "8822",
+      "pointsDirection": 8,
+      "barPredictedFinalPosition": 50,
+      "name": "Micky Mallen",
+      "club": "GS Metro",
+      "averagePointsPerRace": 103.5,
+      "predictedFinalPoints": 207,
+      "grandTotal": 207,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

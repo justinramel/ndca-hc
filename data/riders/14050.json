@@ -1,0 +1,300 @@
+{
+  "id": "14050",
+  "name": "Dan Hodson",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Muckle Cycle Club",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "16125",
+        "raceCategory": "short",
+        "name": "Muckle CC",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 8.5,
+        "date": "22 October 2017",
+        "club": "Muckle Cycle Club",
+        "position": "95",
+        "time": "0:06:01.6",
+        "speed": "0.00 Mph",
+        "bar": 47,
+        "barPosition": 74,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 47,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 47,
+    "remainingShortPoints": 673,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 673,
+    "predictedFinalPoints": 47,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 47,
+      "medium": 0,
+      "long": 0,
+      "grand": 47
+    },
+    "predictedFinalPosition": 126
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "16125",
+      "raceCategory": "short",
+      "name": "Muckle CC",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 8.5,
+      "date": "22 October 2017",
+      "club": "Muckle Cycle Club",
+      "position": "95",
+      "time": "0:06:01.6",
+      "speed": "0.00 Mph",
+      "bar": 47,
+      "barPosition": 74,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 126,
+  "barHistory": [
+    {
+      "eventId": "16125",
+      "date": "22 October 2017",
+      "name": "MH21",
+      "points": {
+        "short": 47,
+        "medium": 0,
+        "long": 0,
+        "grand": 47
+      },
+      "position": 126
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119.66666666666667,
+      "predictedFinalPoints": 718,
+      "grandTotal": 718,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 123,
+      "id": "14185",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 123,
+      "name": "David Wight",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 55,
+      "predictedFinalPoints": 55,
+      "grandTotal": 55,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 124,
+      "id": "3383",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 124,
+      "name": "Mark Riley",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 52,
+      "predictedFinalPoints": 52,
+      "grandTotal": 52,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 125,
+      "id": "9805",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 125,
+      "name": "Ian Stanners",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 50,
+      "predictedFinalPoints": 50,
+      "grandTotal": 50,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 126,
+      "id": "14050",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 126,
+      "name": "Dan Hodson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 47,
+      "predictedFinalPoints": 47,
+      "grandTotal": 47,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 127,
+      "id": "20332",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 127,
+      "name": "Richard Tuck",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 46,
+      "predictedFinalPoints": 46,
+      "grandTotal": 46,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 128,
+      "id": "21638",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 128,
+      "name": "Jeremy Bailey",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 45,
+      "predictedFinalPoints": 45,
+      "grandTotal": 45,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 129,
+      "id": "1354",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 129,
+      "name": "Nicola Olive",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 44,
+      "predictedFinalPoints": 44,
+      "grandTotal": 44,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

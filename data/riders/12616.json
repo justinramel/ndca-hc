@@ -1,0 +1,470 @@
+{
+  "id": "12616",
+  "name": "Michael Woodhouse",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Allen Valley Velo",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15954S2",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Stage 2)",
+        "course": "MH15",
+        "distance": 0,
+        "fee": 5.5,
+        "date": "17 September 2017",
+        "club": "Allen Valley Velo",
+        "position": "36",
+        "time": "0:07:08.5",
+        "speed": "0.00 Mph",
+        "bar": 87,
+        "barPosition": 34,
+        "vbar": 111,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15954",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Stage 1)",
+        "course": "MH16",
+        "distance": 0,
+        "fee": 5.5,
+        "date": "17 September 2017",
+        "club": "Allen Valley Velo",
+        "position": "37",
+        "time": "0:17:28.4",
+        "speed": "0.00 Mph",
+        "bar": 86,
+        "barPosition": 35,
+        "vbar": 110,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 86.5,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 86.5,
+    "remainingShortPoints": 547,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 547,
+    "predictedFinalPoints": 173,
+    "pointsDirection": 6,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 173,
+      "medium": 0,
+      "long": 0,
+      "grand": 173
+    },
+    "predictedFinalPosition": 66
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "15954S2",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Stage 2)",
+        "course": "MH15",
+        "distance": 0,
+        "fee": 5.5,
+        "date": "17 September 2017",
+        "club": "Allen Valley Velo",
+        "position": "36",
+        "time": "0:07:08.5",
+        "speed": "0.00 Mph",
+        "bar": 87,
+        "barPosition": 34,
+        "vbar": 111,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15954",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Stage 1)",
+        "course": "MH16",
+        "distance": 0,
+        "fee": 5.5,
+        "date": "17 September 2017",
+        "club": "Allen Valley Velo",
+        "position": "37",
+        "time": "0:17:28.4",
+        "speed": "0.00 Mph",
+        "bar": 86,
+        "barPosition": 35,
+        "vbar": 110,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "averagePointsPerShortRace": 110.5,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 110.5,
+    "remainingShortPoints": 499,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 499,
+    "predictedFinalPoints": 221,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 221,
+      "medium": 0,
+      "long": 0,
+      "grand": 221
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "15954",
+      "raceCategory": "short",
+      "name": "Allen Valley Velo (Stage 1)",
+      "course": "MH16",
+      "distance": 0,
+      "fee": 5.5,
+      "date": "17 September 2017",
+      "club": "Allen Valley Velo",
+      "position": "37",
+      "time": "0:17:28.4",
+      "speed": "0.00 Mph",
+      "bar": 86,
+      "barPosition": 35,
+      "vbar": 110,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15954S2",
+      "raceCategory": "short",
+      "name": "Allen Valley Velo (Stage 2)",
+      "course": "MH15",
+      "distance": 0,
+      "fee": 5.5,
+      "date": "17 September 2017",
+      "club": "Allen Valley Velo",
+      "position": "36",
+      "time": "0:07:08.5",
+      "speed": "0.00 Mph",
+      "bar": 87,
+      "barPosition": 34,
+      "vbar": 111,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 66,
+  "barHistory": [
+    {
+      "eventId": "15954",
+      "date": "17 September 2017",
+      "name": "MH16",
+      "points": {
+        "short": 86,
+        "medium": 0,
+        "long": 0,
+        "grand": 86
+      },
+      "position": 35
+    },
+    {
+      "eventId": "15954S2",
+      "date": "17 September 2017",
+      "name": "MH15",
+      "points": {
+        "short": 173,
+        "medium": 0,
+        "long": 0,
+        "grand": 173
+      },
+      "position": 35
+    },
+    {
+      "eventId": "16003",
+      "date": "24 September 2017",
+      "name": "MH20",
+      "points": {
+        "short": 173,
+        "medium": 0,
+        "long": 0,
+        "grand": 173
+      },
+      "position": 37
+    },
+    {
+      "eventId": "16003S2",
+      "date": "24 September 2017",
+      "name": "MH4",
+      "points": {
+        "short": 173,
+        "medium": 0,
+        "long": 0,
+        "grand": 173
+      },
+      "position": 49
+    },
+    {
+      "eventId": "16024",
+      "date": "30 September 2017",
+      "name": "MH2",
+      "points": {
+        "short": 173,
+        "medium": 0,
+        "long": 0,
+        "grand": 173
+      },
+      "position": 49
+    },
+    {
+      "eventId": "16080",
+      "date": "08 October 2017",
+      "name": "MH18",
+      "points": {
+        "short": 173,
+        "medium": 0,
+        "long": 0,
+        "grand": 173
+      },
+      "position": 49
+    },
+    {
+      "eventId": "16080S2",
+      "date": "08 October 2017",
+      "name": "MH19",
+      "points": {
+        "short": 173,
+        "medium": 0,
+        "long": 0,
+        "grand": 173
+      },
+      "position": 59
+    },
+    {
+      "eventId": "16108",
+      "date": "15 October 2017",
+      "name": "MH10-MH10B",
+      "points": {
+        "short": 173,
+        "medium": 0,
+        "long": 0,
+        "grand": 173
+      },
+      "position": 60
+    },
+    {
+      "eventId": "16125",
+      "date": "22 October 2017",
+      "name": "MH21",
+      "points": {
+        "short": 173,
+        "medium": 0,
+        "long": 0,
+        "grand": 173
+      },
+      "position": 66
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119.66666666666667,
+      "predictedFinalPoints": 718,
+      "grandTotal": 718,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 63,
+      "id": "7050",
+      "pointsDirection": 7,
+      "barPredictedFinalPosition": 63,
+      "name": "Peter McGlynn",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 89.5,
+      "predictedFinalPoints": 179,
+      "grandTotal": 179,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 64,
+      "id": "6029",
+      "pointsDirection": 7,
+      "barPredictedFinalPosition": 64,
+      "name": "Peter Herdman",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 89.5,
+      "predictedFinalPoints": 179,
+      "grandTotal": 179,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 65,
+      "id": "7758",
+      "pointsDirection": 7,
+      "barPredictedFinalPosition": 65,
+      "name": "Craig Bell",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 88,
+      "predictedFinalPoints": 176,
+      "grandTotal": 176,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 66,
+      "id": "12616",
+      "pointsDirection": 6,
+      "barPredictedFinalPosition": 66,
+      "name": "Michael Woodhouse",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 86.5,
+      "predictedFinalPoints": 173,
+      "grandTotal": 173,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 67,
+      "id": "20805",
+      "pointsDirection": 5,
+      "barPredictedFinalPosition": 67,
+      "name": "Andrew Phillips",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 84,
+      "predictedFinalPoints": 168,
+      "grandTotal": 168,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 68,
+      "id": "16749",
+      "pointsDirection": 5,
+      "barPredictedFinalPosition": 68,
+      "name": "Jane Aston",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 82.5,
+      "predictedFinalPoints": 165,
+      "grandTotal": 165,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 69,
+      "id": "5955",
+      "pointsDirection": 5,
+      "barPredictedFinalPosition": 69,
+      "name": "Stewart Beaty",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 82,
+      "predictedFinalPoints": 164,
+      "grandTotal": 164,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

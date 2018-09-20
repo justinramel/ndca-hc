@@ -1,0 +1,410 @@
+{
+  "id": "6029",
+  "name": "Peter Herdman",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Blaydon CC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "16080",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 1)",
+        "course": "MH18",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "08 October 2017",
+        "club": "Blaydon CC",
+        "position": "38",
+        "time": "0:02:20.8",
+        "speed": "0.00 Mph",
+        "bar": 91,
+        "barPosition": 30,
+        "vbar": 115,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "16080S2",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 2)",
+        "course": "MH19",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "08 October 2017",
+        "club": "Blaydon CC",
+        "position": "42",
+        "time": "0:09:32.8",
+        "speed": "0.00 Mph",
+        "bar": 88,
+        "barPosition": 33,
+        "vbar": 114,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 89.5,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 89.5,
+    "remainingShortPoints": 541,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 541,
+    "predictedFinalPoints": 179,
+    "pointsDirection": 7,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 179,
+      "medium": 0,
+      "long": 0,
+      "grand": 179
+    },
+    "predictedFinalPosition": 64
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "16080",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 1)",
+        "course": "MH18",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "08 October 2017",
+        "club": "Blaydon CC",
+        "position": "38",
+        "time": "0:02:20.8",
+        "speed": "0.00 Mph",
+        "bar": 91,
+        "barPosition": 30,
+        "vbar": 115,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "16080S2",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 2)",
+        "course": "MH19",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "08 October 2017",
+        "club": "Blaydon CC",
+        "position": "42",
+        "time": "0:09:32.8",
+        "speed": "0.00 Mph",
+        "bar": 88,
+        "barPosition": 33,
+        "vbar": 114,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "averagePointsPerShortRace": 114.5,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 114.5,
+    "remainingShortPoints": 491,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 491,
+    "predictedFinalPoints": 229,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 229,
+      "medium": 0,
+      "long": 0,
+      "grand": 229
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "16080",
+      "raceCategory": "short",
+      "name": "Blaydon CC (Stage 1)",
+      "course": "MH18",
+      "distance": 0,
+      "fee": 4.5,
+      "date": "08 October 2017",
+      "club": "Blaydon CC",
+      "position": "38",
+      "time": "0:02:20.8",
+      "speed": "0.00 Mph",
+      "bar": 91,
+      "barPosition": 30,
+      "vbar": 115,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "16080S2",
+      "raceCategory": "short",
+      "name": "Blaydon CC (Stage 2)",
+      "course": "MH19",
+      "distance": 0,
+      "fee": 4.5,
+      "date": "08 October 2017",
+      "club": "Blaydon CC",
+      "position": "42",
+      "time": "0:09:32.8",
+      "speed": "0.00 Mph",
+      "bar": 88,
+      "barPosition": 33,
+      "vbar": 114,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 64,
+  "barHistory": [
+    {
+      "eventId": "16080",
+      "date": "08 October 2017",
+      "name": "MH18",
+      "points": {
+        "short": 91,
+        "medium": 0,
+        "long": 0,
+        "grand": 91
+      },
+      "position": 72
+    },
+    {
+      "eventId": "16080S2",
+      "date": "08 October 2017",
+      "name": "MH19",
+      "points": {
+        "short": 179,
+        "medium": 0,
+        "long": 0,
+        "grand": 179
+      },
+      "position": 56
+    },
+    {
+      "eventId": "16108",
+      "date": "15 October 2017",
+      "name": "MH10-MH10B",
+      "points": {
+        "short": 179,
+        "medium": 0,
+        "long": 0,
+        "grand": 179
+      },
+      "position": 57
+    },
+    {
+      "eventId": "16125",
+      "date": "22 October 2017",
+      "name": "MH21",
+      "points": {
+        "short": 179,
+        "medium": 0,
+        "long": 0,
+        "grand": 179
+      },
+      "position": 64
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119.66666666666667,
+      "predictedFinalPoints": 718,
+      "grandTotal": 718,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 61,
+      "id": "5494",
+      "pointsDirection": 7,
+      "barPredictedFinalPosition": 61,
+      "name": "Stephen Kerr",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 92,
+      "predictedFinalPoints": 184,
+      "grandTotal": 184,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 62,
+      "id": "20950",
+      "pointsDirection": 7,
+      "barPredictedFinalPosition": 62,
+      "name": "Gareth Edwards",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 91,
+      "predictedFinalPoints": 182,
+      "grandTotal": 182,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 63,
+      "id": "7050",
+      "pointsDirection": 7,
+      "barPredictedFinalPosition": 63,
+      "name": "Peter McGlynn",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 89.5,
+      "predictedFinalPoints": 179,
+      "grandTotal": 179,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 64,
+      "id": "6029",
+      "pointsDirection": 7,
+      "barPredictedFinalPosition": 64,
+      "name": "Peter Herdman",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 89.5,
+      "predictedFinalPoints": 179,
+      "grandTotal": 179,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 65,
+      "id": "7758",
+      "pointsDirection": 7,
+      "barPredictedFinalPosition": 65,
+      "name": "Craig Bell",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 88,
+      "predictedFinalPoints": 176,
+      "grandTotal": 176,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 66,
+      "id": "12616",
+      "pointsDirection": 6,
+      "barPredictedFinalPosition": 66,
+      "name": "Michael Woodhouse",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 86.5,
+      "predictedFinalPoints": 173,
+      "grandTotal": 173,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 67,
+      "id": "20805",
+      "pointsDirection": 5,
+      "barPredictedFinalPosition": 67,
+      "name": "Andrew Phillips",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 84,
+      "predictedFinalPoints": 168,
+      "grandTotal": 168,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

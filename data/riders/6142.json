@@ -1,0 +1,432 @@
+{
+  "id": "6142",
+  "name": "John Paul Herron",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Derwentside CC",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15954S2",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Stage 2)",
+        "course": "MH15",
+        "distance": 0,
+        "fee": 5.5,
+        "date": "17 September 2017",
+        "club": "Derwentside CC",
+        "position": "24",
+        "time": "0:06:03.7",
+        "speed": "0.00 Mph",
+        "bar": 98,
+        "barPosition": 23,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15954",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Stage 1)",
+        "course": "MH16",
+        "distance": 0,
+        "fee": 5.5,
+        "date": "17 September 2017",
+        "club": "Derwentside CC",
+        "position": "30",
+        "time": "0:15:47.4",
+        "speed": "0.00 Mph",
+        "bar": 93,
+        "barPosition": 28,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 95.5,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 95.5,
+    "remainingShortPoints": 529,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 529,
+    "predictedFinalPoints": 191,
+    "pointsDirection": 8,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 191,
+      "medium": 0,
+      "long": 0,
+      "grand": 191
+    },
+    "predictedFinalPosition": 56
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "15954",
+      "raceCategory": "short",
+      "name": "Allen Valley Velo (Stage 1)",
+      "course": "MH16",
+      "distance": 0,
+      "fee": 5.5,
+      "date": "17 September 2017",
+      "club": "Derwentside CC",
+      "position": "30",
+      "time": "0:15:47.4",
+      "speed": "0.00 Mph",
+      "bar": 93,
+      "barPosition": 28,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15954S2",
+      "raceCategory": "short",
+      "name": "Allen Valley Velo (Stage 2)",
+      "course": "MH15",
+      "distance": 0,
+      "fee": 5.5,
+      "date": "17 September 2017",
+      "club": "Derwentside CC",
+      "position": "24",
+      "time": "0:06:03.7",
+      "speed": "0.00 Mph",
+      "bar": 98,
+      "barPosition": 23,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 56,
+  "barHistory": [
+    {
+      "eventId": "15954",
+      "date": "17 September 2017",
+      "name": "MH16",
+      "points": {
+        "short": 93,
+        "medium": 0,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 28
+    },
+    {
+      "eventId": "15954S2",
+      "date": "17 September 2017",
+      "name": "MH15",
+      "points": {
+        "short": 191,
+        "medium": 0,
+        "long": 0,
+        "grand": 191
+      },
+      "position": 26
+    },
+    {
+      "eventId": "16003",
+      "date": "24 September 2017",
+      "name": "MH20",
+      "points": {
+        "short": 191,
+        "medium": 0,
+        "long": 0,
+        "grand": 191
+      },
+      "position": 29
+    },
+    {
+      "eventId": "16003S2",
+      "date": "24 September 2017",
+      "name": "MH4",
+      "points": {
+        "short": 191,
+        "medium": 0,
+        "long": 0,
+        "grand": 191
+      },
+      "position": 38
+    },
+    {
+      "eventId": "16024",
+      "date": "30 September 2017",
+      "name": "MH2",
+      "points": {
+        "short": 191,
+        "medium": 0,
+        "long": 0,
+        "grand": 191
+      },
+      "position": 39
+    },
+    {
+      "eventId": "16080",
+      "date": "08 October 2017",
+      "name": "MH18",
+      "points": {
+        "short": 191,
+        "medium": 0,
+        "long": 0,
+        "grand": 191
+      },
+      "position": 40
+    },
+    {
+      "eventId": "16080S2",
+      "date": "08 October 2017",
+      "name": "MH19",
+      "points": {
+        "short": 191,
+        "medium": 0,
+        "long": 0,
+        "grand": 191
+      },
+      "position": 46
+    },
+    {
+      "eventId": "16108",
+      "date": "15 October 2017",
+      "name": "MH10-MH10B",
+      "points": {
+        "short": 191,
+        "medium": 0,
+        "long": 0,
+        "grand": 191
+      },
+      "position": 48
+    },
+    {
+      "eventId": "16125",
+      "date": "22 October 2017",
+      "name": "MH21",
+      "points": {
+        "short": 191,
+        "medium": 0,
+        "long": 0,
+        "grand": 191
+      },
+      "position": 56
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119.66666666666667,
+      "predictedFinalPoints": 718,
+      "grandTotal": 718,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 53,
+      "id": "17976",
+      "pointsDirection": -19,
+      "barPredictedFinalPosition": 53,
+      "name": "Scott McCance",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 99.5,
+      "predictedFinalPoints": 199,
+      "grandTotal": 199,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 54,
+      "id": "10911",
+      "pointsDirection": 9,
+      "barPredictedFinalPosition": 54,
+      "name": "Scot Whitfield",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 97.5,
+      "predictedFinalPoints": 195,
+      "grandTotal": 195,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 55,
+      "id": "14728",
+      "pointsDirection": 9,
+      "barPredictedFinalPosition": 55,
+      "name": "Graham Davison",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 96.5,
+      "predictedFinalPoints": 193,
+      "grandTotal": 193,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 56,
+      "id": "6142",
+      "pointsDirection": 8,
+      "barPredictedFinalPosition": 56,
+      "name": "John Paul Herron",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 95.5,
+      "predictedFinalPoints": 191,
+      "grandTotal": 191,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 57,
+      "id": "3216",
+      "pointsDirection": 8,
+      "barPredictedFinalPosition": 57,
+      "name": "Clive Allan",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 95,
+      "predictedFinalPoints": 190,
+      "grandTotal": 190,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 58,
+      "id": "10798",
+      "pointsDirection": 8,
+      "barPredictedFinalPosition": 58,
+      "name": "Del Fiddes",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 94.5,
+      "predictedFinalPoints": 189,
+      "grandTotal": 189,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 59,
+      "id": "4367",
+      "pointsDirection": 8,
+      "barPredictedFinalPosition": 59,
+      "name": "Chris Mather",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 94.5,
+      "predictedFinalPoints": 189,
+      "grandTotal": 189,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

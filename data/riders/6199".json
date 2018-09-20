@@ -1,0 +1,299 @@
+{
+  "id": "6199\"",
+  "name": "Zeb Kyffin ",
+  "sex": "Male",
+  "category": "Espoir",
+  "club": "GS Metro",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "16003",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Stage 1)",
+        "course": "MH20",
+        "distance": 0,
+        "fee": 5,
+        "date": "24 September 2017",
+        "club": "GS Metro",
+        "position": "1",
+        "time": "0:06:38.3",
+        "speed": "0.00 Mph",
+        "bar": 120,
+        "barPosition": 1,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 120,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 120,
+    "remainingShortPoints": 120,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 120,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 120,
+      "medium": 0,
+      "long": 0,
+      "grand": 120
+    },
+    "predictedFinalPosition": 1
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "16003",
+      "raceCategory": "short",
+      "name": "Sunderland Clarion CC (Stage 1)",
+      "course": "MH20",
+      "distance": 0,
+      "fee": 5,
+      "date": "24 September 2017",
+      "club": "GS Metro",
+      "position": "1",
+      "time": "0:06:38.3",
+      "speed": "0.00 Mph",
+      "bar": 120,
+      "barPosition": 1,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 1,
+  "barHistory": [
+    {
+      "eventId": "16003",
+      "date": "24 September 2017",
+      "name": "MH20",
+      "points": {
+        "short": 120,
+        "medium": 0,
+        "long": 0,
+        "grand": 120
+      },
+      "position": 1
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "1 x 1st"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "1 x Top 5"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "1 x Top 10"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199\"",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin ",
+      "club": "GS Metro",
+      "averagePointsPerRace": 120,
+      "predictedFinalPoints": 120,
+      "grandTotal": 120,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 2,
+      "id": "8720",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 2,
+      "name": "Matthew Smith ",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119,
+      "predictedFinalPoints": 119,
+      "grandTotal": 119,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 3,
+      "id": "866",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 3,
+      "name": "Colin Atkinson ",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 118,
+      "predictedFinalPoints": 118,
+      "grandTotal": 118,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 4,
+      "id": "8323",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 4,
+      "name": "Lewis Timmins ",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 117,
+      "predictedFinalPoints": 117,
+      "grandTotal": 117,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 5,
+      "id": "3037",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 5,
+      "name": "Nick Badcock ",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 116,
+      "predictedFinalPoints": 116,
+      "grandTotal": 116,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 6,
+      "id": "1698",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 6,
+      "name": "Daniel Dixon ",
+      "club": "Gosforth RC",
+      "averagePointsPerRace": 115,
+      "predictedFinalPoints": 115,
+      "grandTotal": 115,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 7,
+      "id": "17325",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 7,
+      "name": "Samuel Davies ",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 114,
+      "predictedFinalPoints": 114,
+      "grandTotal": 114,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

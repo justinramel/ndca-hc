@@ -1,0 +1,446 @@
+{
+  "id": "14728",
+  "name": "Graham Davison",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Sunderland Clarion",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "16003",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Stage 1)",
+        "course": "MH20",
+        "distance": 0,
+        "fee": 5,
+        "date": "24 September 2017",
+        "club": "Sunderland Clarion",
+        "position": "33",
+        "time": "0:09:42.9",
+        "speed": "0.00 Mph",
+        "bar": 97,
+        "barPosition": 24,
+        "vbar": 115,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "16003S2",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Stage 2)",
+        "course": "MH4",
+        "distance": 0,
+        "fee": 5,
+        "date": "24 September 2017",
+        "club": "Sunderland Clarion",
+        "position": "33",
+        "time": "0:04:31.5",
+        "speed": "0.00 Mph",
+        "bar": 96,
+        "barPosition": 25,
+        "vbar": 115,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 96.5,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 96.5,
+    "remainingShortPoints": 527,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 527,
+    "predictedFinalPoints": 193,
+    "pointsDirection": 9,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 193,
+      "medium": 0,
+      "long": 0,
+      "grand": 193
+    },
+    "predictedFinalPosition": 55
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "16003",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Stage 1)",
+        "course": "MH20",
+        "distance": 0,
+        "fee": 5,
+        "date": "24 September 2017",
+        "club": "Sunderland Clarion",
+        "position": "33",
+        "time": "0:09:42.9",
+        "speed": "0.00 Mph",
+        "bar": 97,
+        "barPosition": 24,
+        "vbar": 115,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "16003S2",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Stage 2)",
+        "course": "MH4",
+        "distance": 0,
+        "fee": 5,
+        "date": "24 September 2017",
+        "club": "Sunderland Clarion",
+        "position": "33",
+        "time": "0:04:31.5",
+        "speed": "0.00 Mph",
+        "bar": 96,
+        "barPosition": 25,
+        "vbar": 115,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "averagePointsPerShortRace": 115,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 115,
+    "remainingShortPoints": 490,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 490,
+    "predictedFinalPoints": 230,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 230,
+      "medium": 0,
+      "long": 0,
+      "grand": 230
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "16003",
+      "raceCategory": "short",
+      "name": "Sunderland Clarion CC (Stage 1)",
+      "course": "MH20",
+      "distance": 0,
+      "fee": 5,
+      "date": "24 September 2017",
+      "club": "Sunderland Clarion",
+      "position": "33",
+      "time": "0:09:42.9",
+      "speed": "0.00 Mph",
+      "bar": 97,
+      "barPosition": 24,
+      "vbar": 115,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "16003S2",
+      "raceCategory": "short",
+      "name": "Sunderland Clarion CC (Stage 2)",
+      "course": "MH4",
+      "distance": 0,
+      "fee": 5,
+      "date": "24 September 2017",
+      "club": "Sunderland Clarion",
+      "position": "33",
+      "time": "0:04:31.5",
+      "speed": "0.00 Mph",
+      "bar": 96,
+      "barPosition": 25,
+      "vbar": 115,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 55,
+  "barHistory": [
+    {
+      "eventId": "16003",
+      "date": "24 September 2017",
+      "name": "MH20",
+      "points": {
+        "short": 97,
+        "medium": 0,
+        "long": 0,
+        "grand": 97
+      },
+      "position": 50
+    },
+    {
+      "eventId": "16003S2",
+      "date": "24 September 2017",
+      "name": "MH4",
+      "points": {
+        "short": 193,
+        "medium": 0,
+        "long": 0,
+        "grand": 193
+      },
+      "position": 37
+    },
+    {
+      "eventId": "16024",
+      "date": "30 September 2017",
+      "name": "MH2",
+      "points": {
+        "short": 193,
+        "medium": 0,
+        "long": 0,
+        "grand": 193
+      },
+      "position": 38
+    },
+    {
+      "eventId": "16080",
+      "date": "08 October 2017",
+      "name": "MH18",
+      "points": {
+        "short": 193,
+        "medium": 0,
+        "long": 0,
+        "grand": 193
+      },
+      "position": 39
+    },
+    {
+      "eventId": "16080S2",
+      "date": "08 October 2017",
+      "name": "MH19",
+      "points": {
+        "short": 193,
+        "medium": 0,
+        "long": 0,
+        "grand": 193
+      },
+      "position": 44
+    },
+    {
+      "eventId": "16108",
+      "date": "15 October 2017",
+      "name": "MH10-MH10B",
+      "points": {
+        "short": 193,
+        "medium": 0,
+        "long": 0,
+        "grand": 193
+      },
+      "position": 46
+    },
+    {
+      "eventId": "16125",
+      "date": "22 October 2017",
+      "name": "MH21",
+      "points": {
+        "short": 193,
+        "medium": 0,
+        "long": 0,
+        "grand": 193
+      },
+      "position": 55
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119.66666666666667,
+      "predictedFinalPoints": 718,
+      "grandTotal": 718,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 52,
+      "id": "20383",
+      "pointsDirection": -19,
+      "barPredictedFinalPosition": 52,
+      "name": "Ben Walker",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 101,
+      "predictedFinalPoints": 202,
+      "grandTotal": 202,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 53,
+      "id": "17976",
+      "pointsDirection": -19,
+      "barPredictedFinalPosition": 53,
+      "name": "Scott McCance",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 99.5,
+      "predictedFinalPoints": 199,
+      "grandTotal": 199,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 54,
+      "id": "10911",
+      "pointsDirection": 9,
+      "barPredictedFinalPosition": 54,
+      "name": "Scot Whitfield",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 97.5,
+      "predictedFinalPoints": 195,
+      "grandTotal": 195,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 55,
+      "id": "14728",
+      "pointsDirection": 9,
+      "barPredictedFinalPosition": 55,
+      "name": "Graham Davison",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 96.5,
+      "predictedFinalPoints": 193,
+      "grandTotal": 193,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 56,
+      "id": "6142",
+      "pointsDirection": 8,
+      "barPredictedFinalPosition": 56,
+      "name": "John Paul Herron",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 95.5,
+      "predictedFinalPoints": 191,
+      "grandTotal": 191,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 57,
+      "id": "3216",
+      "pointsDirection": 8,
+      "barPredictedFinalPosition": 57,
+      "name": "Clive Allan",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 95,
+      "predictedFinalPoints": 190,
+      "grandTotal": 190,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 58,
+      "id": "10798",
+      "pointsDirection": 8,
+      "barPredictedFinalPosition": 58,
+      "name": "Del Fiddes",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 94.5,
+      "predictedFinalPoints": 189,
+      "grandTotal": 189,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

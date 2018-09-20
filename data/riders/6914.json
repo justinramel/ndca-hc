@@ -1,0 +1,332 @@
+{
+  "id": "6914",
+  "name": "Colin Oxberry",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Houghton CC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "16108",
+        "raceCategory": "short",
+        "name": "Houghton CC",
+        "course": "MH10-MH10B",
+        "distance": 0,
+        "fee": 8.5,
+        "date": "15 October 2017",
+        "club": "Houghton CC",
+        "position": "36",
+        "time": "0:03:14.0",
+        "speed": "0.00 Mph",
+        "bar": 92,
+        "barPosition": 29,
+        "vbar": 110,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 92,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 92,
+    "remainingShortPoints": 628,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 628,
+    "predictedFinalPoints": 92,
+    "pointsDirection": 5,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 92,
+      "medium": 0,
+      "long": 0,
+      "grand": 92
+    },
+    "predictedFinalPosition": 90
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "16108",
+        "raceCategory": "short",
+        "name": "Houghton CC",
+        "course": "MH10-MH10B",
+        "distance": 0,
+        "fee": 8.5,
+        "date": "15 October 2017",
+        "club": "Houghton CC",
+        "position": "36",
+        "time": "0:03:14.0",
+        "speed": "0.00 Mph",
+        "bar": 92,
+        "barPosition": 29,
+        "vbar": 110,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 110,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 110,
+    "remainingShortPoints": 610,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 610,
+    "predictedFinalPoints": 110,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 110,
+      "medium": 0,
+      "long": 0,
+      "grand": 110
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "16108",
+      "raceCategory": "short",
+      "name": "Houghton CC",
+      "course": "MH10-MH10B",
+      "distance": 0,
+      "fee": 8.5,
+      "date": "15 October 2017",
+      "club": "Houghton CC",
+      "position": "36",
+      "time": "0:03:14.0",
+      "speed": "0.00 Mph",
+      "bar": 92,
+      "barPosition": 29,
+      "vbar": 110,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 90,
+  "barHistory": [
+    {
+      "eventId": "16108",
+      "date": "15 October 2017",
+      "name": "MH10-MH10B",
+      "points": {
+        "short": 92,
+        "medium": 0,
+        "long": 0,
+        "grand": 92
+      },
+      "position": 85
+    },
+    {
+      "eventId": "16125",
+      "date": "22 October 2017",
+      "name": "MH21",
+      "points": {
+        "short": 92,
+        "medium": 0,
+        "long": 0,
+        "grand": 92
+      },
+      "position": 90
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119.66666666666667,
+      "predictedFinalPoints": 718,
+      "grandTotal": 718,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 87,
+      "id": "2955",
+      "pointsDirection": 4,
+      "barPredictedFinalPosition": 87,
+      "name": "Neil Foster",
+      "club": "Adept Precision RT",
+      "averagePointsPerRace": 96,
+      "predictedFinalPoints": 96,
+      "grandTotal": 96,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 88,
+      "id": "16086",
+      "pointsDirection": 4,
+      "barPredictedFinalPosition": 88,
+      "name": "Christopher Dorian",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 94,
+      "predictedFinalPoints": 94,
+      "grandTotal": 94,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 89,
+      "id": "9604",
+      "pointsDirection": -46,
+      "barPredictedFinalPosition": 89,
+      "name": "Adam Wood",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 93,
+      "predictedFinalPoints": 93,
+      "grandTotal": 93,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 90,
+      "id": "6914",
+      "pointsDirection": 5,
+      "barPredictedFinalPosition": 90,
+      "name": "Colin Oxberry",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 92,
+      "predictedFinalPoints": 92,
+      "grandTotal": 92,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 91,
+      "id": "9755",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 91,
+      "name": "David Diston",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 92,
+      "predictedFinalPoints": 92,
+      "grandTotal": 92,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 92,
+      "id": "21284",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 92,
+      "name": "lee cuthbertson",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 91,
+      "predictedFinalPoints": 91,
+      "grandTotal": 91,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 93,
+      "id": "21013",
+      "pointsDirection": 6,
+      "barPredictedFinalPosition": 93,
+      "name": "Gary Evans",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 91,
+      "predictedFinalPoints": 91,
+      "grandTotal": 91,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

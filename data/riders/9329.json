@@ -1,0 +1,340 @@
+{
+  "id": "9329",
+  "name": "Jane Massey",
+  "sex": "Female",
+  "category": "Vet",
+  "club": "Cramlington CC",
+  "inBar": true,
+  "inVBar": true,
+  "inLBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "16125",
+        "raceCategory": "short",
+        "name": "Muckle CC",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 8.5,
+        "date": "22 October 2017",
+        "club": "Cramlington CC",
+        "position": "101",
+        "time": "0:07:11.4",
+        "speed": "0.00 Mph",
+        "bar": 41,
+        "barPosition": 80,
+        "vbar": 100,
+        "lbar": 113,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 41,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 41,
+    "remainingShortPoints": 679,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 679,
+    "predictedFinalPoints": 41,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 41,
+      "medium": 0,
+      "long": 0,
+      "grand": 41
+    },
+    "predictedFinalPosition": 132
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "16125",
+        "raceCategory": "short",
+        "name": "Muckle CC",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 8.5,
+        "date": "22 October 2017",
+        "club": "Cramlington CC",
+        "position": "101",
+        "time": "0:07:11.4",
+        "speed": "0.00 Mph",
+        "bar": 41,
+        "barPosition": 80,
+        "vbar": 100,
+        "lbar": 113,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 100,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 100,
+    "remainingShortPoints": 620,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 620,
+    "predictedFinalPoints": 100,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 100,
+      "medium": 0,
+      "long": 0,
+      "grand": 100
+    }
+  },
+  "lbar": {
+    "short": [
+      {
+        "eventId": "16125",
+        "raceCategory": "short",
+        "name": "Muckle CC",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 8.5,
+        "date": "22 October 2017",
+        "club": "Cramlington CC",
+        "position": "101",
+        "time": "0:07:11.4",
+        "speed": "0.00 Mph",
+        "bar": 41,
+        "barPosition": 80,
+        "vbar": 100,
+        "lbar": 113,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 113,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 113,
+    "remainingShortPoints": 607,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 607,
+    "predictedFinalPoints": 113,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 113,
+      "medium": 0,
+      "long": 0,
+      "grand": 113
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "16125",
+      "raceCategory": "short",
+      "name": "Muckle CC",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 8.5,
+      "date": "22 October 2017",
+      "club": "Cramlington CC",
+      "position": "101",
+      "time": "0:07:11.4",
+      "speed": "0.00 Mph",
+      "bar": 41,
+      "barPosition": 80,
+      "vbar": 100,
+      "lbar": 113,
+      "jbar": 0
+    }
+  ],
+  "position": 132,
+  "barHistory": [
+    {
+      "eventId": "16125",
+      "date": "22 October 2017",
+      "name": "MH21",
+      "points": {
+        "short": 41,
+        "medium": 0,
+        "long": 0,
+        "grand": 41
+      },
+      "position": 132
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119.66666666666667,
+      "predictedFinalPoints": 718,
+      "grandTotal": 718,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 129,
+      "id": "1354",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 129,
+      "name": "Nicola Olive",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 44,
+      "predictedFinalPoints": 44,
+      "grandTotal": 44,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 130,
+      "id": "21338",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 130,
+      "name": "Helen Parkin",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 43,
+      "predictedFinalPoints": 43,
+      "grandTotal": 43,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 131,
+      "id": "21614",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 131,
+      "name": "TINA HOWE",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 42,
+      "predictedFinalPoints": 42,
+      "grandTotal": 42,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 132,
+      "id": "9329",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 132,
+      "name": "Jane Massey",
+      "club": "Cramlington CC",
+      "averagePointsPerRace": 41,
+      "predictedFinalPoints": 41,
+      "grandTotal": 41,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 133,
+      "id": "11392",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 133,
+      "name": "Sheena Harrison",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 40,
+      "predictedFinalPoints": 40,
+      "grandTotal": 40,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 134,
+      "id": "92",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 134,
+      "name": "Mick Chappel",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 39,
+      "predictedFinalPoints": 39,
+      "grandTotal": 39,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 135,
+      "id": "21580",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 135,
+      "name": "Aidan Berry",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 38,
+      "predictedFinalPoints": 38,
+      "grandTotal": 38,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

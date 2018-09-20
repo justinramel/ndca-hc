@@ -1,0 +1,320 @@
+{
+  "id": "21585",
+  "name": "Paul Wass",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Muckle Cycle Club",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "16125",
+        "raceCategory": "short",
+        "name": "Muckle CC",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 8.5,
+        "date": "22 October 2017",
+        "club": "Muckle Cycle Club",
+        "position": "53",
+        "time": "0:05:01.3",
+        "speed": "0.00 Mph",
+        "bar": 80,
+        "barPosition": 41,
+        "vbar": 116,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 80,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 80,
+    "remainingShortPoints": 640,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 640,
+    "predictedFinalPoints": 80,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 80,
+      "medium": 0,
+      "long": 0,
+      "grand": 80
+    },
+    "predictedFinalPosition": 106
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "16125",
+        "raceCategory": "short",
+        "name": "Muckle CC",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 8.5,
+        "date": "22 October 2017",
+        "club": "Muckle Cycle Club",
+        "position": "53",
+        "time": "0:05:01.3",
+        "speed": "0.00 Mph",
+        "bar": 80,
+        "barPosition": 41,
+        "vbar": 116,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 116,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 116,
+    "remainingShortPoints": 604,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 604,
+    "predictedFinalPoints": 116,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 116,
+      "medium": 0,
+      "long": 0,
+      "grand": 116
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "16125",
+      "raceCategory": "short",
+      "name": "Muckle CC",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 8.5,
+      "date": "22 October 2017",
+      "club": "Muckle Cycle Club",
+      "position": "53",
+      "time": "0:05:01.3",
+      "speed": "0.00 Mph",
+      "bar": 80,
+      "barPosition": 41,
+      "vbar": 116,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 106,
+  "barHistory": [
+    {
+      "eventId": "16125",
+      "date": "22 October 2017",
+      "name": "MH21",
+      "points": {
+        "short": 80,
+        "medium": 0,
+        "long": 0,
+        "grand": 80
+      },
+      "position": 106
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119.66666666666667,
+      "predictedFinalPoints": 718,
+      "grandTotal": 718,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 103,
+      "id": "19643",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 103,
+      "name": "Daniel James Humble",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 82,
+      "predictedFinalPoints": 82,
+      "grandTotal": 82,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 104,
+      "id": "1890",
+      "pointsDirection": 11,
+      "barPredictedFinalPosition": 104,
+      "name": "Christian Roberts",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 81,
+      "predictedFinalPoints": 81,
+      "grandTotal": 81,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 105,
+      "id": "21621",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 105,
+      "name": "Craig Hodgson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 81,
+      "predictedFinalPoints": 81,
+      "grandTotal": 81,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 106,
+      "id": "21585",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 106,
+      "name": "Paul Wass",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 80,
+      "predictedFinalPoints": 80,
+      "grandTotal": 80,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 107,
+      "id": "817",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 107,
+      "name": "Sean Kennedy",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 79,
+      "predictedFinalPoints": 79,
+      "grandTotal": 79,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 108,
+      "id": "20333",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 108,
+      "name": "Tony Dougan",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 75,
+      "predictedFinalPoints": 75,
+      "grandTotal": 75,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 109,
+      "id": "17932",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 109,
+      "name": "Robert Patton",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 73,
+      "predictedFinalPoints": 73,
+      "grandTotal": 73,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

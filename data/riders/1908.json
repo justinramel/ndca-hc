@@ -1,0 +1,524 @@
+{
+  "id": "1908",
+  "name": "Fiona Burnie",
+  "sex": "Female",
+  "category": "Senior",
+  "club": "GS Metro",
+  "inBar": true,
+  "inLBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15954",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Stage 1)",
+        "course": "MH16",
+        "distance": 0,
+        "fee": 5.5,
+        "date": "17 September 2017",
+        "club": "GS Metro",
+        "position": "18",
+        "time": "0:14:09.1",
+        "speed": "0.00 Mph",
+        "bar": 104,
+        "barPosition": 17,
+        "vbar": 0,
+        "lbar": 120,
+        "jbar": 0
+      },
+      {
+        "eventId": "15954S2",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Stage 2)",
+        "course": "MH15",
+        "distance": 0,
+        "fee": 5.5,
+        "date": "17 September 2017",
+        "club": "GS Metro",
+        "position": "20",
+        "time": "0:05:47.1",
+        "speed": "0.00 Mph",
+        "bar": 102,
+        "barPosition": 19,
+        "vbar": 0,
+        "lbar": 120,
+        "jbar": 0
+      },
+      {
+        "eventId": "16024",
+        "raceCategory": "short",
+        "name": "Cestria CC",
+        "course": "MH2",
+        "distance": 0,
+        "fee": 8.5,
+        "date": "30 September 2017",
+        "club": "GS Metro",
+        "position": "28",
+        "time": "0:05:03.6",
+        "speed": "0.00 Mph",
+        "bar": 99,
+        "barPosition": 22,
+        "vbar": 0,
+        "lbar": 120,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 3,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 101.66666666666667,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 101.66666666666667,
+    "remainingShortPoints": 415,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 415,
+    "predictedFinalPoints": 305,
+    "pointsDirection": 3,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 305,
+      "medium": 0,
+      "long": 0,
+      "grand": 305
+    },
+    "predictedFinalPosition": 36
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [
+      {
+        "eventId": "15954",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Stage 1)",
+        "course": "MH16",
+        "distance": 0,
+        "fee": 5.5,
+        "date": "17 September 2017",
+        "club": "GS Metro",
+        "position": "18",
+        "time": "0:14:09.1",
+        "speed": "0.00 Mph",
+        "bar": 104,
+        "barPosition": 17,
+        "vbar": 0,
+        "lbar": 120,
+        "jbar": 0
+      },
+      {
+        "eventId": "15954S2",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Stage 2)",
+        "course": "MH15",
+        "distance": 0,
+        "fee": 5.5,
+        "date": "17 September 2017",
+        "club": "GS Metro",
+        "position": "20",
+        "time": "0:05:47.1",
+        "speed": "0.00 Mph",
+        "bar": 102,
+        "barPosition": 19,
+        "vbar": 0,
+        "lbar": 120,
+        "jbar": 0
+      },
+      {
+        "eventId": "16024",
+        "raceCategory": "short",
+        "name": "Cestria CC",
+        "course": "MH2",
+        "distance": 0,
+        "fee": 8.5,
+        "date": "30 September 2017",
+        "club": "GS Metro",
+        "position": "28",
+        "time": "0:05:03.6",
+        "speed": "0.00 Mph",
+        "bar": 99,
+        "barPosition": 22,
+        "vbar": 0,
+        "lbar": 120,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 3,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": false,
+    "averagePointsPerShortRace": 120,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 120,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 360,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 360,
+      "medium": 0,
+      "long": 0,
+      "grand": 360
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "15954",
+      "raceCategory": "short",
+      "name": "Allen Valley Velo (Stage 1)",
+      "course": "MH16",
+      "distance": 0,
+      "fee": 5.5,
+      "date": "17 September 2017",
+      "club": "GS Metro",
+      "position": "18",
+      "time": "0:14:09.1",
+      "speed": "0.00 Mph",
+      "bar": 104,
+      "barPosition": 17,
+      "vbar": 0,
+      "lbar": 120,
+      "jbar": 0
+    },
+    {
+      "eventId": "15954S2",
+      "raceCategory": "short",
+      "name": "Allen Valley Velo (Stage 2)",
+      "course": "MH15",
+      "distance": 0,
+      "fee": 5.5,
+      "date": "17 September 2017",
+      "club": "GS Metro",
+      "position": "20",
+      "time": "0:05:47.1",
+      "speed": "0.00 Mph",
+      "bar": 102,
+      "barPosition": 19,
+      "vbar": 0,
+      "lbar": 120,
+      "jbar": 0
+    },
+    {
+      "eventId": "16024",
+      "raceCategory": "short",
+      "name": "Cestria CC",
+      "course": "MH2",
+      "distance": 0,
+      "fee": 8.5,
+      "date": "30 September 2017",
+      "club": "GS Metro",
+      "position": "28",
+      "time": "0:05:03.6",
+      "speed": "0.00 Mph",
+      "bar": 99,
+      "barPosition": 22,
+      "vbar": 0,
+      "lbar": 120,
+      "jbar": 0
+    }
+  ],
+  "position": 36,
+  "barHistory": [
+    {
+      "eventId": "15954",
+      "date": "17 September 2017",
+      "name": "MH16",
+      "points": {
+        "short": 104,
+        "medium": 0,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 17
+    },
+    {
+      "eventId": "15954S2",
+      "date": "17 September 2017",
+      "name": "MH15",
+      "points": {
+        "short": 206,
+        "medium": 0,
+        "long": 0,
+        "grand": 206
+      },
+      "position": 17
+    },
+    {
+      "eventId": "16003",
+      "date": "24 September 2017",
+      "name": "MH20",
+      "points": {
+        "short": 206,
+        "medium": 0,
+        "long": 0,
+        "grand": 206
+      },
+      "position": 25
+    },
+    {
+      "eventId": "16003S2",
+      "date": "24 September 2017",
+      "name": "MH4",
+      "points": {
+        "short": 206,
+        "medium": 0,
+        "long": 0,
+        "grand": 206
+      },
+      "position": 31
+    },
+    {
+      "eventId": "16024",
+      "date": "30 September 2017",
+      "name": "MH2",
+      "points": {
+        "short": 305,
+        "medium": 0,
+        "long": 0,
+        "grand": 305
+      },
+      "position": 24
+    },
+    {
+      "eventId": "16080",
+      "date": "08 October 2017",
+      "name": "MH18",
+      "points": {
+        "short": 305,
+        "medium": 0,
+        "long": 0,
+        "grand": 305
+      },
+      "position": 30
+    },
+    {
+      "eventId": "16080S2",
+      "date": "08 October 2017",
+      "name": "MH19",
+      "points": {
+        "short": 305,
+        "medium": 0,
+        "long": 0,
+        "grand": 305
+      },
+      "position": 31
+    },
+    {
+      "eventId": "16108",
+      "date": "15 October 2017",
+      "name": "MH10-MH10B",
+      "points": {
+        "short": 305,
+        "medium": 0,
+        "long": 0,
+        "grand": 305
+      },
+      "position": 33
+    },
+    {
+      "eventId": "16125",
+      "date": "22 October 2017",
+      "name": "MH21",
+      "points": {
+        "short": 305,
+        "medium": 0,
+        "long": 0,
+        "grand": 305
+      },
+      "position": 36
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119.66666666666667,
+      "predictedFinalPoints": 718,
+      "grandTotal": 718,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 33,
+      "id": "20460",
+      "pointsDirection": -3,
+      "barPredictedFinalPosition": 33,
+      "name": "Nick Spencer",
+      "club": "Blumilk.com",
+      "averagePointsPerRace": 116,
+      "predictedFinalPoints": 348,
+      "grandTotal": 348,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 34,
+      "id": "11877",
+      "pointsDirection": -1,
+      "barPredictedFinalPosition": 34,
+      "name": "Thomas Prentice",
+      "club": "GS Metro",
+      "averagePointsPerRace": 114.66666666666667,
+      "predictedFinalPoints": 344,
+      "grandTotal": 344,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 35,
+      "id": "7048",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 35,
+      "name": "Ross Gray",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 108,
+      "predictedFinalPoints": 324,
+      "grandTotal": 324,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 36,
+      "id": "1908",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 36,
+      "name": "Fiona Burnie",
+      "club": "GS Metro",
+      "averagePointsPerRace": 101.66666666666667,
+      "predictedFinalPoints": 305,
+      "grandTotal": 305,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 37,
+      "id": "18403",
+      "pointsDirection": -8,
+      "barPredictedFinalPosition": 37,
+      "name": "Graeme Kirton",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 97,
+      "predictedFinalPoints": 291,
+      "grandTotal": 291,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 38,
+      "id": "20091",
+      "pointsDirection": -3,
+      "barPredictedFinalPosition": 38,
+      "name": "Rob De'Giovanni",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 97,
+      "predictedFinalPoints": 291,
+      "grandTotal": 291,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 39,
+      "id": "18015",
+      "pointsDirection": -6,
+      "barPredictedFinalPosition": 39,
+      "name": "David Nearney",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 97,
+      "predictedFinalPoints": 291,
+      "grandTotal": 291,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

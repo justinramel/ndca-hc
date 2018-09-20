@@ -1,0 +1,549 @@
+{
+  "id": "11321",
+  "name": "Charles Bayley",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Gosforth RC",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15954S2",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Stage 2)",
+        "course": "MH15",
+        "distance": 0,
+        "fee": 5.5,
+        "date": "17 September 2017",
+        "club": "Gosforth RC",
+        "position": "5",
+        "time": "0:05:06.6",
+        "speed": "0.00 Mph",
+        "bar": 116,
+        "barPosition": 5,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15954",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Stage 1)",
+        "course": "MH16",
+        "distance": 0,
+        "fee": 5.5,
+        "date": "17 September 2017",
+        "club": "Gosforth RC",
+        "position": "7",
+        "time": "0:13:03.2",
+        "speed": "0.00 Mph",
+        "bar": 114,
+        "barPosition": 7,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "16080",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 1)",
+        "course": "MH18",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "08 October 2017",
+        "club": "Gosforth RC",
+        "position": "22",
+        "time": "0:02:02.0",
+        "speed": "0.00 Mph",
+        "bar": 105,
+        "barPosition": 16,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "16080S2",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 2)",
+        "course": "MH19",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "08 October 2017",
+        "club": "Gosforth RC",
+        "position": "22",
+        "time": "0:08:13.3",
+        "speed": "0.00 Mph",
+        "bar": 105,
+        "barPosition": 16,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "16125",
+        "raceCategory": "short",
+        "name": "Muckle CC",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 8.5,
+        "date": "22 October 2017",
+        "club": "Gosforth RC",
+        "position": "23",
+        "time": "0:04:31.4",
+        "speed": "0.00 Mph",
+        "bar": 104,
+        "barPosition": 17,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 5,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 5,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 108.8,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 108.8,
+    "remainingShortPoints": 176,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 176,
+    "predictedFinalPoints": 544,
+    "pointsDirection": -2,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 544,
+      "medium": 0,
+      "long": 0,
+      "grand": 544
+    },
+    "predictedFinalPosition": 22
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "15954",
+      "raceCategory": "short",
+      "name": "Allen Valley Velo (Stage 1)",
+      "course": "MH16",
+      "distance": 0,
+      "fee": 5.5,
+      "date": "17 September 2017",
+      "club": "Gosforth RC",
+      "position": "7",
+      "time": "0:13:03.2",
+      "speed": "0.00 Mph",
+      "bar": 114,
+      "barPosition": 7,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15954S2",
+      "raceCategory": "short",
+      "name": "Allen Valley Velo (Stage 2)",
+      "course": "MH15",
+      "distance": 0,
+      "fee": 5.5,
+      "date": "17 September 2017",
+      "club": "Gosforth RC",
+      "position": "5",
+      "time": "0:05:06.6",
+      "speed": "0.00 Mph",
+      "bar": 116,
+      "barPosition": 5,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "16080",
+      "raceCategory": "short",
+      "name": "Blaydon CC (Stage 1)",
+      "course": "MH18",
+      "distance": 0,
+      "fee": 4.5,
+      "date": "08 October 2017",
+      "club": "Gosforth RC",
+      "position": "22",
+      "time": "0:02:02.0",
+      "speed": "0.00 Mph",
+      "bar": 105,
+      "barPosition": 16,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "16080S2",
+      "raceCategory": "short",
+      "name": "Blaydon CC (Stage 2)",
+      "course": "MH19",
+      "distance": 0,
+      "fee": 4.5,
+      "date": "08 October 2017",
+      "club": "Gosforth RC",
+      "position": "22",
+      "time": "0:08:13.3",
+      "speed": "0.00 Mph",
+      "bar": 105,
+      "barPosition": 16,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "16125",
+      "raceCategory": "short",
+      "name": "Muckle CC",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 8.5,
+      "date": "22 October 2017",
+      "club": "Gosforth RC",
+      "position": "23",
+      "time": "0:04:31.4",
+      "speed": "0.00 Mph",
+      "bar": 104,
+      "barPosition": 17,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 25,
+  "barHistory": [
+    {
+      "eventId": "15954",
+      "date": "17 September 2017",
+      "name": "MH16",
+      "points": {
+        "short": 114,
+        "medium": 0,
+        "long": 0,
+        "grand": 114
+      },
+      "position": 7
+    },
+    {
+      "eventId": "15954S2",
+      "date": "17 September 2017",
+      "name": "MH15",
+      "points": {
+        "short": 230,
+        "medium": 0,
+        "long": 0,
+        "grand": 230
+      },
+      "position": 6
+    },
+    {
+      "eventId": "16003",
+      "date": "24 September 2017",
+      "name": "MH20",
+      "points": {
+        "short": 230,
+        "medium": 0,
+        "long": 0,
+        "grand": 230
+      },
+      "position": 19
+    },
+    {
+      "eventId": "16003S2",
+      "date": "24 September 2017",
+      "name": "MH4",
+      "points": {
+        "short": 230,
+        "medium": 0,
+        "long": 0,
+        "grand": 230
+      },
+      "position": 19
+    },
+    {
+      "eventId": "16024",
+      "date": "30 September 2017",
+      "name": "MH2",
+      "points": {
+        "short": 230,
+        "medium": 0,
+        "long": 0,
+        "grand": 230
+      },
+      "position": 30
+    },
+    {
+      "eventId": "16080",
+      "date": "08 October 2017",
+      "name": "MH18",
+      "points": {
+        "short": 335,
+        "medium": 0,
+        "long": 0,
+        "grand": 335
+      },
+      "position": 26
+    },
+    {
+      "eventId": "16080S2",
+      "date": "08 October 2017",
+      "name": "MH19",
+      "points": {
+        "short": 440,
+        "medium": 0,
+        "long": 0,
+        "grand": 440
+      },
+      "position": 25
+    },
+    {
+      "eventId": "16108",
+      "date": "15 October 2017",
+      "name": "MH10-MH10B",
+      "points": {
+        "short": 440,
+        "medium": 0,
+        "long": 0,
+        "grand": 440
+      },
+      "position": 27
+    },
+    {
+      "eventId": "16125",
+      "date": "22 October 2017",
+      "name": "MH21",
+      "points": {
+        "short": 544,
+        "medium": 0,
+        "long": 0,
+        "grand": 544
+      },
+      "position": 25
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "1 x Top 5"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "2 x Top 10"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119.66666666666667,
+      "predictedFinalPoints": 718,
+      "grandTotal": 718,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 22,
+      "id": "13",
+      "pointsDirection": -2,
+      "barPredictedFinalPosition": 22,
+      "name": "Paul Wright",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 89.66666666666667,
+      "predictedFinalPoints": 538,
+      "grandTotal": 538,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 23,
+      "id": "3838",
+      "pointsDirection": 5,
+      "barPredictedFinalPosition": 23,
+      "name": "Gemma Hutchins",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 87.66666666666667,
+      "predictedFinalPoints": 526,
+      "grandTotal": 526,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 24,
+      "id": "10722",
+      "pointsDirection": -2,
+      "barPredictedFinalPosition": 24,
+      "name": "Jen McMahon",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 82.33333333333333,
+      "predictedFinalPoints": 494,
+      "grandTotal": 494,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 25,
+      "id": "11321",
+      "pointsDirection": -2,
+      "barPredictedFinalPosition": 22,
+      "name": "Charles Bayley",
+      "club": "Gosforth RC",
+      "averagePointsPerRace": 108.8,
+      "predictedFinalPoints": 544,
+      "grandTotal": 544,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 26,
+      "id": "446",
+      "pointsDirection": 4,
+      "barPredictedFinalPosition": 25,
+      "name": "Paul Hague",
+      "club": "Gosforth RC",
+      "averagePointsPerRace": 104.8,
+      "predictedFinalPoints": 524,
+      "grandTotal": 524,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 27,
+      "id": "8785",
+      "pointsDirection": -1,
+      "barPredictedFinalPosition": 27,
+      "name": "Jamie Ruddell",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 96.2,
+      "predictedFinalPoints": 481,
+      "grandTotal": 481,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 28,
+      "id": "17325",
+      "pointsDirection": -3,
+      "barPredictedFinalPosition": 28,
+      "name": "Samuel Davies",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 112,
+      "predictedFinalPoints": 448,
+      "grandTotal": 448,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

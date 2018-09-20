@@ -1,0 +1,637 @@
+{
+  "id": "8720",
+  "name": "Matthew Smith",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Muckle Cycle Club",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "16003S2",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Stage 2)",
+        "course": "MH4",
+        "distance": 0,
+        "fee": 5,
+        "date": "24 September 2017",
+        "club": "Muckle Cycle Club",
+        "position": "1",
+        "time": "0:03:10.4",
+        "speed": "0.00 Mph",
+        "bar": 120,
+        "barPosition": 1,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "16080",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 1)",
+        "course": "MH18",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "08 October 2017",
+        "club": "Muckle Cycle Club",
+        "position": "2",
+        "time": "0:01:34.6",
+        "speed": "0.00 Mph",
+        "bar": 120,
+        "barPosition": 1,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15954S2",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Stage 2)",
+        "course": "MH15",
+        "distance": 0,
+        "fee": 5.5,
+        "date": "17 September 2017",
+        "club": "Muckle Cycle Club",
+        "position": "2",
+        "time": "0:04:46.2",
+        "speed": "0.00 Mph",
+        "bar": 119,
+        "barPosition": 2,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "16003",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Stage 1)",
+        "course": "MH20",
+        "distance": 0,
+        "fee": 5,
+        "date": "24 September 2017",
+        "club": "Muckle Cycle Club",
+        "position": "2",
+        "time": "0:07:06.5",
+        "speed": "0.00 Mph",
+        "bar": 119,
+        "barPosition": 2,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15954",
+        "raceCategory": "short",
+        "name": "Allen Valley Velo (Stage 1)",
+        "course": "MH16",
+        "distance": 0,
+        "fee": 5.5,
+        "date": "17 September 2017",
+        "club": "Muckle Cycle Club",
+        "position": "3",
+        "time": "0:12:29.1",
+        "speed": "0.00 Mph",
+        "bar": 118,
+        "barPosition": 3,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "16024",
+        "raceCategory": "short",
+        "name": "Cestria CC",
+        "course": "MH2",
+        "distance": 0,
+        "fee": 8.5,
+        "date": "30 September 2017",
+        "club": "Muckle Cycle Club",
+        "position": "4",
+        "time": "0:04:17.5",
+        "speed": "0.00 Mph",
+        "bar": 118,
+        "barPosition": 3,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 6,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 6,
+    "complete": true,
+    "canComplete": true,
+    "averagePointsPerShortRace": 119,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 119,
+    "remainingShortPoints": 6,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 6,
+    "predictedFinalPoints": 714,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 714,
+      "medium": 0,
+      "long": 0,
+      "grand": 714
+    },
+    "predictedFinalPosition": 2
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "15954",
+      "raceCategory": "short",
+      "name": "Allen Valley Velo (Stage 1)",
+      "course": "MH16",
+      "distance": 0,
+      "fee": 5.5,
+      "date": "17 September 2017",
+      "club": "Muckle Cycle Club",
+      "position": "3",
+      "time": "0:12:29.1",
+      "speed": "0.00 Mph",
+      "bar": 118,
+      "barPosition": 3,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15954S2",
+      "raceCategory": "short",
+      "name": "Allen Valley Velo (Stage 2)",
+      "course": "MH15",
+      "distance": 0,
+      "fee": 5.5,
+      "date": "17 September 2017",
+      "club": "Muckle Cycle Club",
+      "position": "2",
+      "time": "0:04:46.2",
+      "speed": "0.00 Mph",
+      "bar": 119,
+      "barPosition": 2,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "16003",
+      "raceCategory": "short",
+      "name": "Sunderland Clarion CC (Stage 1)",
+      "course": "MH20",
+      "distance": 0,
+      "fee": 5,
+      "date": "24 September 2017",
+      "club": "Muckle Cycle Club",
+      "position": "2",
+      "time": "0:07:06.5",
+      "speed": "0.00 Mph",
+      "bar": 119,
+      "barPosition": 2,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "16003S2",
+      "raceCategory": "short",
+      "name": "Sunderland Clarion CC (Stage 2)",
+      "course": "MH4",
+      "distance": 0,
+      "fee": 5,
+      "date": "24 September 2017",
+      "club": "Muckle Cycle Club",
+      "position": "1",
+      "time": "0:03:10.4",
+      "speed": "0.00 Mph",
+      "bar": 120,
+      "barPosition": 1,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "16024",
+      "raceCategory": "short",
+      "name": "Cestria CC",
+      "course": "MH2",
+      "distance": 0,
+      "fee": 8.5,
+      "date": "30 September 2017",
+      "club": "Muckle Cycle Club",
+      "position": "4",
+      "time": "0:04:17.5",
+      "speed": "0.00 Mph",
+      "bar": 118,
+      "barPosition": 3,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "16080",
+      "raceCategory": "short",
+      "name": "Blaydon CC (Stage 1)",
+      "course": "MH18",
+      "distance": 0,
+      "fee": 4.5,
+      "date": "08 October 2017",
+      "club": "Muckle Cycle Club",
+      "position": "2",
+      "time": "0:01:34.6",
+      "speed": "0.00 Mph",
+      "bar": 120,
+      "barPosition": 1,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "16080S2",
+      "raceCategory": "short",
+      "name": "Blaydon CC (Stage 2)",
+      "course": "MH19",
+      "distance": 0,
+      "fee": 4.5,
+      "date": "08 October 2017",
+      "club": "Muckle Cycle Club",
+      "position": "8",
+      "time": "0:07:34.7",
+      "speed": "0.00 Mph",
+      "bar": 116,
+      "barPosition": 5,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "16108",
+      "raceCategory": "short",
+      "name": "Houghton CC",
+      "course": "MH10-MH10B",
+      "distance": 0,
+      "fee": 8.5,
+      "date": "15 October 2017",
+      "club": "Muckle Cycle Club",
+      "position": "3",
+      "time": "0:01:58.0",
+      "speed": "0.00 Mph",
+      "bar": 118,
+      "barPosition": 3,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "16125",
+      "raceCategory": "short",
+      "name": "Muckle CC",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 8.5,
+      "date": "22 October 2017",
+      "club": "Muckle Cycle Club",
+      "position": "4",
+      "time": "0:03:51.6",
+      "speed": "0.00 Mph",
+      "bar": 118,
+      "barPosition": 3,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 2,
+  "barHistory": [
+    {
+      "eventId": "15954",
+      "date": "17 September 2017",
+      "name": "MH16",
+      "points": {
+        "short": 118,
+        "medium": 0,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 3
+    },
+    {
+      "eventId": "15954S2",
+      "date": "17 September 2017",
+      "name": "MH15",
+      "points": {
+        "short": 237,
+        "medium": 0,
+        "long": 0,
+        "grand": 237
+      },
+      "position": 3
+    },
+    {
+      "eventId": "16003",
+      "date": "24 September 2017",
+      "name": "MH20",
+      "points": {
+        "short": 356,
+        "medium": 0,
+        "long": 0,
+        "grand": 356
+      },
+      "position": 2
+    },
+    {
+      "eventId": "16003S2",
+      "date": "24 September 2017",
+      "name": "MH4",
+      "points": {
+        "short": 476,
+        "medium": 0,
+        "long": 0,
+        "grand": 476
+      },
+      "position": 2
+    },
+    {
+      "eventId": "16024",
+      "date": "30 September 2017",
+      "name": "MH2",
+      "points": {
+        "short": 594,
+        "medium": 0,
+        "long": 0,
+        "grand": 594
+      },
+      "position": 2
+    },
+    {
+      "eventId": "16080",
+      "date": "08 October 2017",
+      "name": "MH18",
+      "points": {
+        "short": 714,
+        "medium": 0,
+        "long": 0,
+        "grand": 714
+      },
+      "position": 2
+    },
+    {
+      "eventId": "16080S2",
+      "date": "08 October 2017",
+      "name": "MH19",
+      "points": {
+        "short": 714,
+        "medium": 0,
+        "long": 0,
+        "grand": 714
+      },
+      "position": 2
+    },
+    {
+      "eventId": "16108",
+      "date": "15 October 2017",
+      "name": "MH10-MH10B",
+      "points": {
+        "short": 714,
+        "medium": 0,
+        "long": 0,
+        "grand": 714
+      },
+      "position": 2
+    },
+    {
+      "eventId": "16125",
+      "date": "22 October 2017",
+      "name": "MH21",
+      "points": {
+        "short": 714,
+        "medium": 0,
+        "long": 0,
+        "grand": 714
+      },
+      "position": 2
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "2 x 1st"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "2 x 2nd"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "4 x 3rd"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "9 x Top 5"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "9 x Top 10"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119.66666666666667,
+      "predictedFinalPoints": 718,
+      "grandTotal": 718,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 2,
+      "id": "8720",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 2,
+      "name": "Matthew Smith",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119,
+      "predictedFinalPoints": 714,
+      "grandTotal": 714,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 3,
+      "id": "866",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 3,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 117.5,
+      "predictedFinalPoints": 705,
+      "grandTotal": 705,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 4,
+      "id": "1207",
+      "pointsDirection": -15,
+      "barPredictedFinalPosition": 4,
+      "name": "Jonathan Bayley",
+      "club": "Gosforth RC",
+      "averagePointsPerRace": 117,
+      "predictedFinalPoints": 702,
+      "grandTotal": 702,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 5,
+      "id": "8323",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 5,
+      "name": "Lewis Timmins",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 116.16666666666667,
+      "predictedFinalPoints": 697,
+      "grandTotal": 697,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 6,
+      "id": "58",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 6,
+      "name": "John Bowman",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 115.16666666666667,
+      "predictedFinalPoints": 691,
+      "grandTotal": 691,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 7,
+      "id": "1698",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 7,
+      "name": "Daniel Dixon",
+      "club": "Gosforth RC",
+      "averagePointsPerRace": 113.16666666666667,
+      "predictedFinalPoints": 679,
+      "grandTotal": 679,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

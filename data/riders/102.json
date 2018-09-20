@@ -1,0 +1,423 @@
+{
+  "id": "102",
+  "name": "Adam Jarps",
+  "sex": "Male",
+  "category": "Junior",
+  "club": "Manilla Cycling",
+  "inBar": true,
+  "inJBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "16080S2",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 2)",
+        "course": "MH19",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "08 October 2017",
+        "club": "Manilla Cycling",
+        "position": "5",
+        "time": "0:07:29.1",
+        "speed": "0.00 Mph",
+        "bar": 118,
+        "barPosition": 3,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 120
+      },
+      {
+        "eventId": "16080",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 1)",
+        "course": "MH18",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "08 October 2017",
+        "club": "Manilla Cycling",
+        "position": "20",
+        "time": "0:02:00.4",
+        "speed": "0.00 Mph",
+        "bar": 107,
+        "barPosition": 14,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 117
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 112.5,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 112.5,
+    "remainingShortPoints": 495,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 495,
+    "predictedFinalPoints": 225,
+    "pointsDirection": 7,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 225,
+      "medium": 0,
+      "long": 0,
+      "grand": 225
+    },
+    "predictedFinalPosition": 44
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [
+      {
+        "eventId": "16080S2",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 2)",
+        "course": "MH19",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "08 October 2017",
+        "club": "Manilla Cycling",
+        "position": "5",
+        "time": "0:07:29.1",
+        "speed": "0.00 Mph",
+        "bar": 118,
+        "barPosition": 3,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 120
+      },
+      {
+        "eventId": "16080",
+        "raceCategory": "short",
+        "name": "Blaydon CC (Stage 1)",
+        "course": "MH18",
+        "distance": 0,
+        "fee": 4.5,
+        "date": "08 October 2017",
+        "club": "Manilla Cycling",
+        "position": "20",
+        "time": "0:02:00.4",
+        "speed": "0.00 Mph",
+        "bar": 107,
+        "barPosition": 14,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 117
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 118.5,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 118.5,
+    "remainingShortPoints": 483,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 483,
+    "predictedFinalPoints": 237,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 237,
+      "medium": 0,
+      "long": 0,
+      "grand": 237
+    }
+  },
+  "races": [
+    {
+      "eventId": "16080",
+      "raceCategory": "short",
+      "name": "Blaydon CC (Stage 1)",
+      "course": "MH18",
+      "distance": 0,
+      "fee": 4.5,
+      "date": "08 October 2017",
+      "club": "Manilla Cycling",
+      "position": "20",
+      "time": "0:02:00.4",
+      "speed": "0.00 Mph",
+      "bar": 107,
+      "barPosition": 14,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 117
+    },
+    {
+      "eventId": "16080S2",
+      "raceCategory": "short",
+      "name": "Blaydon CC (Stage 2)",
+      "course": "MH19",
+      "distance": 0,
+      "fee": 4.5,
+      "date": "08 October 2017",
+      "club": "Manilla Cycling",
+      "position": "5",
+      "time": "0:07:29.1",
+      "speed": "0.00 Mph",
+      "bar": 118,
+      "barPosition": 3,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 120
+    }
+  ],
+  "position": 44,
+  "barHistory": [
+    {
+      "eventId": "16080",
+      "date": "08 October 2017",
+      "name": "MH18",
+      "points": {
+        "short": 107,
+        "medium": 0,
+        "long": 0,
+        "grand": 107
+      },
+      "position": 60
+    },
+    {
+      "eventId": "16080S2",
+      "date": "08 October 2017",
+      "name": "MH19",
+      "points": {
+        "short": 225,
+        "medium": 0,
+        "long": 0,
+        "grand": 225
+      },
+      "position": 35
+    },
+    {
+      "eventId": "16108",
+      "date": "15 October 2017",
+      "name": "MH10-MH10B",
+      "points": {
+        "short": 225,
+        "medium": 0,
+        "long": 0,
+        "grand": 225
+      },
+      "position": 37
+    },
+    {
+      "eventId": "16125",
+      "date": "22 October 2017",
+      "name": "MH21",
+      "points": {
+        "short": 225,
+        "medium": 0,
+        "long": 0,
+        "grand": 225
+      },
+      "position": 44
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "1 x 3rd"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "1 x Top 5"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "1 x Top 10"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119.66666666666667,
+      "predictedFinalPoints": 718,
+      "grandTotal": 718,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 41,
+      "id": "9603",
+      "pointsDirection": -12,
+      "barPredictedFinalPosition": 41,
+      "name": "Mark Armstrong",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 87,
+      "predictedFinalPoints": 261,
+      "grandTotal": 261,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 42,
+      "id": "4354",
+      "pointsDirection": -25,
+      "barPredictedFinalPosition": 42,
+      "name": "Tim Wilcock",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119.5,
+      "predictedFinalPoints": 239,
+      "grandTotal": 239,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 43,
+      "id": "20342",
+      "pointsDirection": -18,
+      "barPredictedFinalPosition": 43,
+      "name": "Stephen Pattison",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 75.33333333333333,
+      "predictedFinalPoints": 226,
+      "grandTotal": 226,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 44,
+      "id": "102",
+      "pointsDirection": 7,
+      "barPredictedFinalPosition": 44,
+      "name": "Adam Jarps",
+      "club": "Manilla Cycling",
+      "averagePointsPerRace": 112.5,
+      "predictedFinalPoints": 225,
+      "grandTotal": 225,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 45,
+      "id": "12505",
+      "pointsDirection": -14,
+      "barPredictedFinalPosition": 45,
+      "name": "Richard Hirst",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 74,
+      "predictedFinalPoints": 222,
+      "grandTotal": 222,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 46,
+      "id": "5283",
+      "pointsDirection": 8,
+      "barPredictedFinalPosition": 46,
+      "name": "James O'Reilly",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 110.5,
+      "predictedFinalPoints": 221,
+      "grandTotal": 221,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 47,
+      "id": "55",
+      "pointsDirection": 8,
+      "barPredictedFinalPosition": 47,
+      "name": "Ben Lane",
+      "club": "GS Metro",
+      "averagePointsPerRace": 109,
+      "predictedFinalPoints": 218,
+      "grandTotal": 218,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

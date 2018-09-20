@@ -1,0 +1,368 @@
+{
+  "id": "21121",
+  "name": "Neil Wilkinson",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Cestria C.C.",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "16024",
+        "raceCategory": "short",
+        "name": "Cestria CC",
+        "course": "MH2",
+        "distance": 0,
+        "fee": 8.5,
+        "date": "30 September 2017",
+        "club": "Cestria C.C.",
+        "position": "26",
+        "time": "0:05:01.7",
+        "speed": "0.00 Mph",
+        "bar": 101,
+        "barPosition": 20,
+        "vbar": 116,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 101,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 101,
+    "remainingShortPoints": 619,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 619,
+    "predictedFinalPoints": 101,
+    "pointsDirection": 4,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 101,
+      "medium": 0,
+      "long": 0,
+      "grand": 101
+    },
+    "predictedFinalPosition": 80
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "16024",
+        "raceCategory": "short",
+        "name": "Cestria CC",
+        "course": "MH2",
+        "distance": 0,
+        "fee": 8.5,
+        "date": "30 September 2017",
+        "club": "Cestria C.C.",
+        "position": "26",
+        "time": "0:05:01.7",
+        "speed": "0.00 Mph",
+        "bar": 101,
+        "barPosition": 20,
+        "vbar": 116,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 116,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 116,
+    "remainingShortPoints": 604,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 604,
+    "predictedFinalPoints": 116,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 116,
+      "medium": 0,
+      "long": 0,
+      "grand": 116
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "16024",
+      "raceCategory": "short",
+      "name": "Cestria CC",
+      "course": "MH2",
+      "distance": 0,
+      "fee": 8.5,
+      "date": "30 September 2017",
+      "club": "Cestria C.C.",
+      "position": "26",
+      "time": "0:05:01.7",
+      "speed": "0.00 Mph",
+      "bar": 101,
+      "barPosition": 20,
+      "vbar": 116,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 80,
+  "barHistory": [
+    {
+      "eventId": "16024",
+      "date": "30 September 2017",
+      "name": "MH2",
+      "points": {
+        "short": 101,
+        "medium": 0,
+        "long": 0,
+        "grand": 101
+      },
+      "position": 59
+    },
+    {
+      "eventId": "16080",
+      "date": "08 October 2017",
+      "name": "MH18",
+      "points": {
+        "short": 101,
+        "medium": 0,
+        "long": 0,
+        "grand": 101
+      },
+      "position": 64
+    },
+    {
+      "eventId": "16080S2",
+      "date": "08 October 2017",
+      "name": "MH19",
+      "points": {
+        "short": 101,
+        "medium": 0,
+        "long": 0,
+        "grand": 101
+      },
+      "position": 71
+    },
+    {
+      "eventId": "16108",
+      "date": "15 October 2017",
+      "name": "MH10-MH10B",
+      "points": {
+        "short": 101,
+        "medium": 0,
+        "long": 0,
+        "grand": 101
+      },
+      "position": 76
+    },
+    {
+      "eventId": "16125",
+      "date": "22 October 2017",
+      "name": "MH21",
+      "points": {
+        "short": 101,
+        "medium": 0,
+        "long": 0,
+        "grand": 101
+      },
+      "position": 80
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119.66666666666667,
+      "predictedFinalPoints": 718,
+      "grandTotal": 718,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 77,
+      "id": "20238",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 77,
+      "name": "Rafe Williams",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 105,
+      "predictedFinalPoints": 105,
+      "grandTotal": 105,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 78,
+      "id": "8256",
+      "pointsDirection": 5,
+      "barPredictedFinalPosition": 78,
+      "name": "Henning Saelzer",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 104,
+      "predictedFinalPoints": 104,
+      "grandTotal": 104,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 79,
+      "id": "21492",
+      "pointsDirection": 5,
+      "barPredictedFinalPosition": 79,
+      "name": "Anthony Burrell",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 103,
+      "predictedFinalPoints": 103,
+      "grandTotal": 103,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 80,
+      "id": "21121",
+      "pointsDirection": 4,
+      "barPredictedFinalPosition": 80,
+      "name": "Neil Wilkinson",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 101,
+      "predictedFinalPoints": 101,
+      "grandTotal": 101,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 81,
+      "id": "21472",
+      "pointsDirection": 4,
+      "barPredictedFinalPosition": 81,
+      "name": "Andrew Murray",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 101,
+      "predictedFinalPoints": 101,
+      "grandTotal": 101,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 82,
+      "id": "9785",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 82,
+      "name": "Darren Robson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 101,
+      "predictedFinalPoints": 101,
+      "grandTotal": 101,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 83,
+      "id": "21457",
+      "pointsDirection": 4,
+      "barPredictedFinalPosition": 83,
+      "name": "Nicholas Weddle",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 99,
+      "predictedFinalPoints": 99,
+      "grandTotal": 99,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

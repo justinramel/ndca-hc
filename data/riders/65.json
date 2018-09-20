@@ -1,0 +1,305 @@
+{
+  "id": "65",
+  "name": "Carl Donaldson",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "GS Metro",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "16125",
+        "raceCategory": "short",
+        "name": "Muckle CC",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 8.5,
+        "date": "22 October 2017",
+        "club": "GS Metro",
+        "position": "14",
+        "time": "0:04:10.8",
+        "speed": "0.00 Mph",
+        "bar": 111,
+        "barPosition": 10,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 111,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 111,
+    "remainingShortPoints": 609,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 609,
+    "predictedFinalPoints": 111,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 111,
+      "medium": 0,
+      "long": 0,
+      "grand": 111
+    },
+    "predictedFinalPosition": 75
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 720,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "16125",
+      "raceCategory": "short",
+      "name": "Muckle CC",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 8.5,
+      "date": "22 October 2017",
+      "club": "GS Metro",
+      "position": "14",
+      "time": "0:04:10.8",
+      "speed": "0.00 Mph",
+      "bar": 111,
+      "barPosition": 10,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 75,
+  "barHistory": [
+    {
+      "eventId": "16125",
+      "date": "22 October 2017",
+      "name": "MH21",
+      "points": {
+        "short": 111,
+        "medium": 0,
+        "long": 0,
+        "grand": 111
+      },
+      "position": 75
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "1 x Top 10"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119.66666666666667,
+      "predictedFinalPoints": 718,
+      "grandTotal": 718,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 72,
+      "id": "11813",
+      "pointsDirection": 6,
+      "barPredictedFinalPosition": 72,
+      "name": "Rhiannon Robinson",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 79.5,
+      "predictedFinalPoints": 159,
+      "grandTotal": 159,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 73,
+      "id": "1502",
+      "pointsDirection": -18,
+      "barPredictedFinalPosition": 73,
+      "name": "Justin Ramel",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 69.5,
+      "predictedFinalPoints": 139,
+      "grandTotal": 139,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 74,
+      "id": "3648",
+      "pointsDirection": 6,
+      "barPredictedFinalPosition": 74,
+      "name": "michael openshaw",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 115,
+      "predictedFinalPoints": 115,
+      "grandTotal": 115,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 75,
+      "id": "65",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 75,
+      "name": "Carl Donaldson",
+      "club": "GS Metro",
+      "averagePointsPerRace": 111,
+      "predictedFinalPoints": 111,
+      "grandTotal": 111,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 76,
+      "id": "4233",
+      "pointsDirection": 6,
+      "barPredictedFinalPosition": 76,
+      "name": "Ian Taylor",
+      "club": "Blumilk.com",
+      "averagePointsPerRace": 35.333333333333336,
+      "predictedFinalPoints": 106,
+      "grandTotal": 106,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 77,
+      "id": "20238",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 77,
+      "name": "Rafe Williams",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 105,
+      "predictedFinalPoints": 105,
+      "grandTotal": 105,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 78,
+      "id": "8256",
+      "pointsDirection": 5,
+      "barPredictedFinalPosition": 78,
+      "name": "Henning Saelzer",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 104,
+      "predictedFinalPoints": 104,
+      "grandTotal": 104,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}
